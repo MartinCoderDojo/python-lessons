@@ -1,7 +1,7 @@
 import turtle
 
 
-def moveforward():
+def move_forward():
     arrow.goto(arrow.position()[0]+90, arrow.position()[1])
 
 

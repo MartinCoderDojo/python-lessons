@@ -1,11 +1,11 @@
 import turtle
 
 
-def moveforward():
+def move_forward():
     arrow.goto(arrow.position()[0]+45, arrow.position()[1])
 
 
-def moveup():
+def move_up():
     arrow.goto(arrow.position()[0], arrow.position()[1]+55)
 
 
